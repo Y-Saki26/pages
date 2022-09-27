@@ -93,16 +93,69 @@
             </div>
           </details>
         </dd>
+        <dt>はてなブログ</dt>
+        <dd><a href="https://undercapey.hatenablog.com/">Y. Saki の実験ノート</a></dd>
+        <dd>
+          <details>
+            <summary>記事一覧</summary>
+            <div>
+              <ul>
+                <li><a
+                    href="https://undercapey.hatenablog.com/entry/2022/08/22/154815">2重の三角関数の級数展開とBessel関数とJosephson効果</a>
+              </ul>
+            </div>
+          </details>
+        </dd>
         <dt><a href="https://github.com/Y-Saki26">GitHub</a></dt>
         <dd>研究やブログ記事関連のソースコード</dd>
-        <dt>ブログ</dt>
-        <dd><a href="https://undercapey.hatenablog.com/">Y. Saki の実験ノート</a></dd>
+        <dd>
+          <details>
+            <summary>記事一覧</summary>
+            <div>
+              <ul>
+                <li><a href="https://github.com/Y-Saki26/pages">pages</a><br>
+                  本サイト</li>
+                <li><a href="https://github.com/Y-Saki26/memorandum">memorandum</a><br>
+                  備忘録用コード集
+                  <ul>
+                    <li><a href="https://github.com/Y-Saki26/memorandum/tree/main/SimpleNeuralNet-hands-on"
+                        title="SimpleNeuralNet-hands-onn">SimpleNeuralNet-hands-on</a><br>
+                      skleran風APIラッパー skorch を用いた PyTorch によるニューラルネットの構築・学習・検証の覚書</li>
+                  </ul>
+                </li>
+                <li><a href="https://github.com/Y-Saki26/benchmarks">benchmarks</a><br>
+                  ベンチマーク集
+                  <ul>
+                    <li><a href="https://github.com/Y-Saki26/benchmarks/tree/main/Benchmark/Vectors"
+                        title="Vectors">Vectors</a><br>
+                      C# で数個の要素をベクトル的演算したときの比較<br>
+                      <a href="https://zenn.dev/ysaki51/articles/45d180e3755410">Zennの記事</a> 参照．
+                    </li>
+                  </ul>
+                </li>
+                <li><a href="https://github.com/Y-Saki26/remcmc">remcmc</a><br>
+                  レプリカ交換MCMCの計算(開発中)</li>
+              </ul>
+            </div>
+          </details>
+        </dd>
+        </dd>
         <dt>Twitter <a href="https://twitter.com/UndercapeY">@UndercapeY</a></dt>
         <dd>日常的なつぶやき</dd>
       </dl>
-
     </div>
+    <div><time id="modify"></time></div>
   </div>
+  <script>
+    /* 更新日の取得 */
+    const last = new Date(document.lastModified);
+    const year = last.getFullYear();
+    const month = last.getMonth() + 1;
+    const date = last.getDate();
+    /* 日付を書き換える */
+    const target = document.getElementById('modify');
+    target.textContent = '最終更新：' + year + '-' + month + '-' + date;
+  </script>
 </body>
 
 </html>
