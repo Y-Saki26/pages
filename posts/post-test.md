@@ -3,8 +3,12 @@ layout: post
 title: test post
 ---
 
-## section1
+## Section1
 
-This is mathjax: \(y = f(x) \).
+Mathjax test:
++ `\(y = f(x) \)`: \(y = f(x) \)
++ `\(y = f(x) \)`: $ y = f(x) $
++ `\[y = f(x) \]`: \[y = f(x) \]
++ `$$ y = f(x) $$`: $$ y = f(x) $$
 
 [back](../)

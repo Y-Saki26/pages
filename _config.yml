@@ -1,6 +1,9 @@
-title: 崎下雄稀
+title: Yuki Sakishita
 logo: /assets/img/favicon_temporary.jpg
-description: Test Homepage
-show_downloads: true
+description: Homepage of Yuki Sakishita
+show_downloads: false
+github:
+  is_project_page: true
+  is_user_page: true
 google_analytics: G-65XGBRY6HB
 theme: jekyll-theme-minimal
