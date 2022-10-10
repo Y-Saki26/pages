@@ -7,9 +7,9 @@ title: test post
 
 Mathjax test:
 
-+ `\(y = f(x) \)`: \(y = f(x) \)
-+ `\(y = f(x) \)`: $ y = f(x) $
-+ `\[y = f(x) \]`: \[y = f(x) \]
++ `\( y = f(x) \)`: \( y = f(x) \)
++ `$ y = f(x) $`: $ y = f(x) $
++ `\[ y = f(x) \]`: \[ y = f(x) \]
 + `$$ y = f(x) $$`: $$ y = f(x) $$
 
 [back](../)
