@@ -16,7 +16,7 @@ title: ホームページ
 <dt>研究分野</dt>
 <dd>物性物理学，情報統計力学</dd>
 <dt>メールアドレス</dt>
-<dd> (\(\lambda A.\) sakishita-yuki26 \(A\) g.ecc.u-tokyo.ac.jp) \(@\) </dd>
+<dd> ($\lambda A.$ sakishita-yuki26 $A$ g.ecc.u-tokyo.ac.jp) $@$ </dd>
 </dl>
 
 情報統計力学分野で研究を行っています．
