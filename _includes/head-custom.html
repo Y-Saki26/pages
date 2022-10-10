@@ -7,7 +7,18 @@
 <!-- You can set your favicon here -->
 <link rel="shortcut icon" type="image/x-icon" href="/minimal-test/assets/img/favicon_temporary.jpg">
 <!-- MathJax script-->
-<script type="text/javascript" id="MathJax-script" async
-src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+<script>
+    MathJax = {
+      chtml: {
+        matchFontHeight: false
+      },
+      tex: {
+        inlineMath: [['$', '$']]
+      }
+    };
+</script>
+<script id="MathJax-script" async
+    src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js">
+</script>
 
 <!-- end custom head snippets -->
