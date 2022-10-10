@@ -1,4 +1,5 @@
 title: Yuki Sakishita
+url: https://y-saki26.github.io/pages/
 logo: /assets/img/favicon_temporary.jpg
 description: Homepage of Yuki Sakishita
 show_downloads: false
@@ -7,3 +8,5 @@ github:
   is_user_page: true
 google_analytics: G-65XGBRY6HB
 theme: jekyll-theme-minimal
+plugins:
+  - jekyll-sitemap
