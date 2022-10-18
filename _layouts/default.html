@@ -47,7 +47,12 @@
       <footer>
         <p>Back to <a href="#">top of page</a></p>
         <p>Back to <a href="https://y-saki26.github.io/pages/">Homepage</a></p>
-        <p>Last Update: <time id="modify">{{ page.last_modified_at | date: '%Y-%m-%d %H:%M' }}</time></p>
+        {% if page.date %}
+        <p>Publicized: <time id="publicize">{{ page.date }}</time></p>
+        {% endif %}
+        {% if page.lastmod %}
+        <p>Last Modified: <time id="modify">{{ page.lastmod }}</time></p>
+        {% endif %}
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}

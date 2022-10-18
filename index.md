@@ -2,6 +2,8 @@
 layout: default
 title: ホームページ
 description: Homepage of Y. Sakishita
+date: 2021-10-10
+lastmod: 2021-10-18
 ---
 
 ## 概要
