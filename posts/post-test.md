@@ -1,6 +1,7 @@
 ---
 layout: post
-title: test post
+title: Test Post
+description: test post
 ---
 
 ## Section1

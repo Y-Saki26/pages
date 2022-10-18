@@ -1,9 +1,8 @@
 ---
 layout: default
 title: ホームページ
+description: Homepage of Y. Sakishita
 ---
-
-# 崎下 雄稀
 
 ## 概要
 
