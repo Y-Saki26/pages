@@ -6,6 +6,8 @@ description: Homepage of Y. Sakishita
 
 ## 概要
 
+[日本語](./index) [English](./index_en)
+
 <dl>
 <dt>氏名</dt>
 <dd>崎下雄稀（Sakishita Yuki）</dd>
