@@ -101,27 +101,27 @@ href="https://undercapey.hatenablog.com/entry/2022/08/22/154815">2重の三角�
 <div>
 <ul>
 <li><a href="https://github.com/Y-Saki26/pages">pages</a><br>
-本サイト</li>
+This Website</li>
 <li><a href="https://github.com/Y-Saki26/memorandum">memorandum</a><br>
-備忘録用コード集
+Code collection for memorandum
 <ul>
 <li><a href="https://github.com/Y-Saki26/memorandum/tree/main/SimpleNeuralNet-hands-on"
 title="SimpleNeuralNet-hands-onn">SimpleNeuralNet-hands-on</a><br>
-skleran風APIラッパー skorch を用いた PyTorch によるニューラルネットの構築・学習・検証の覚書</li>
+Memorandum on Building, Training, and Validating Neural Networks with PyTorch Using skorch, a skleran-like API Wrapper</li>
 </ul>
 </li>
 <li><a href="https://github.com/Y-Saki26/benchmarks">benchmarks</a><br>
-ベンチマーク集
+Benchmark Collection
 <ul>
 <li><a href="https://github.com/Y-Saki26/benchmarks/tree/main/Benchmark/Vectors"
 title="Vectors">Vectors</a><br>
-C# で数個の要素をベクトル的演算したときの比較<br>
-<a href="https://zenn.dev/ysaki51/articles/45d180e3755410">Zennの記事</a> 参照．
+Comparison of vectorial operations on several elements in C#<br>
+See <a href="https://zenn.dev/ysaki51/articles/45d180e3755410">Articles in Zenn</a>.
 </li>
 </ul>
 </li>
 <li><a href="https://github.com/Y-Saki26/remcmc">remcmc</a><br>
-レプリカ交換MCMCの計算(開発中)</li>
+Replica exchange MCMC calculation (WIP)</li>
 </ul>
 </div>
 </details>

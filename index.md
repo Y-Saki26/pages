@@ -81,10 +81,21 @@ href="https://undercapey.hatenablog.com/entry/2022/08/22/154815">2重の三角�
 備忘録用コード集
 <ul>
 <li><a href="https://github.com/Y-Saki26/memorandum/tree/main/SimpleNeuralNet-hands-on"
-title="SimpleNeuralNet-hands-onn">SimpleNeuralNet-hands-on</a><br>
+title="SimpleNeuralNet-hands-on">SimpleNeuralNet-hands-on</a><br>
 skleran風APIラッパー skorch を用いた PyTorch によるニューラルネットの構築・学習・検証の覚書</li>
+<li><a href="https://github.com/Y-Saki26/memorandum/tree/main/MatInterp"
+title="MatInterp">MatInterp</a><br>
+ニューラルネットを用いて3次元曲面補間を行うアプリケーション MatInterp を導入し適当な問題で動かせるようする．</li>
+<li><a href="https://github.com/Y-Saki26/memorandum/tree/main/MachineEpsilon"
+title="MachineEpsilon">MachineEpsilon</a><br>
+Python と C# で計算機イプシロンの計算．</li>
+<li><a href="https://github.com/Y-Saki26/memorandum/tree/main/MazeGenerator"
+title="MazeGenerator">MazeGenerator</a><br>
+壁伸ばし法による迷路生成アルゴリズム．</li>
 </ul>
 </li>
+<li><a href="https://github.com/Y-Saki26/pages-blog-template-minimal">pages-blog-template-minimal</a><br>
+Jekyll で GitHub Pages の Website を作る際のテンプレート</li>
 <li><a href="https://github.com/Y-Saki26/benchmarks">benchmarks</a><br>
 ベンチマーク集
 <ul>
