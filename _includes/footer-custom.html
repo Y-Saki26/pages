@@ -1,0 +1,10 @@
+<p>Back to <a href="#">top of page</a></p>
+<p>Back to <a href="https://y-saki26.github.io/pages/">Homepage</a></p>
+
+{% if page.date %}
+<p>Publicized: <time id="publicize">{{ page.date }}</time></p>
+{% endif %}
+
+{% if page.lastmod %}
+<p>Last Modified: <time id="modify">{{ page.lastmod }}</time></p>
+{% endif %}
