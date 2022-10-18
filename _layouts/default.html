@@ -47,17 +47,7 @@
       <footer>
         <p>Back to <a href="#">top of page</a></p>
         <p>Back to <a href="https://y-saki26.github.io/pages/">Homepage</a></p>
-        <p>Last Update: <time id="modify"></time></p>
-        <script>
-          /* 更新日の取得 */
-          const last = new Date(document.lastModified);
-          const year = last.getFullYear();
-          const month = last.getMonth() + 1;
-          const date = last.getDate();
-          /* 日付を書き換える */
-          const target = document.getElementById('modify');
-          target.textContent = year + '-' + month + '-' + date + ` ${last.getHours()}:${last.getMinutes()}`;
-        </script>
+        <p>Last Update: <time id="modify">{% last_modified_at %Y-%m-%d %H:%M %}</time></p>
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}

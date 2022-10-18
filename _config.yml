@@ -19,3 +19,4 @@ github:
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-sitemap
+  - jekyll-last-modified-at
