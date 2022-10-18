@@ -1,26 +1,14 @@
 title: Y. Sakishita
-url: https://y-saki26.github.io/pages/
+url: root_url
 tagline: Homepage of Y. Sakishita
 description: Website summarizing Yuki Sakishita's achievements
 author:
   name: Yuki Sakishita
-  url: https://y-saki26.github.io/pages/
+  url: author_url
 twitter:
   username: UndercapeY
   card: summary
 logo: /assets/img/favicon_temporary.jpg
-social:
-  name: Yuki Sakishita
-  links:
-    - https://github.com/Y-Saki26
-    - https://twitter.com/UndercapeY
-    - https://mathlog.info/users/2173/articles
-    - https://zenn.dev/ysaki51
-    - https://www.linkedin.com/in/yuki-sakishita/
-    - https://scholar.google.com/citations?user=EinKsAsAAAAJ
-    - https://orcid.org/0000-0002-2200-9861
-    - https://www.researchgate.net/profile/Yuki-Sakishita
-    - https://researchmap.jp/yuki_sakishita
 google_site_verification: Ox5gxPoyK55bmXwER1X9Y3rVrA9StwWIaERDPJRkfJg
 google_analytics: G-65XGBRY6HB
 show_downloads: false
