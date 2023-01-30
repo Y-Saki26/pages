@@ -27,6 +27,8 @@ lastmod: 2021-10-18
 ## コンテンツ
 
 <dl>
+<dt>本サイト</dt>
+<dd>→ <a href="./posts/sitemap">サイトマップ</a></dd>
 <dt><a href="https://researchmap.jp/yuki_sakishita">reserchmap</a></dt>
 <dd>研究業績のまとめ</dd>
 <dt><a href="https://zenn.dev/ysaki51">Zenn</a></dt>
