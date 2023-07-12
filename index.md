@@ -159,3 +159,8 @@ C# で数個の要素をベクトル的演算したときの比較<br>
 - 日本物理学会 第77回年次大会（2022年）[15pB14-11 「薄膜X線ラウエ振動の膜厚混合分布モデルによるベイズ推定」](https://onsite.gakkai-web.net/jps/jps_search/2022sp/data2/html/program11.html#:~:text=%E8%96%84%E8%86%9CX%E7%B7%9A%E3%83%A9%E3%82%A6%E3%82%A8%E6%8C%AF%E5%8B%95%E3%81%AE%E8%86%9C%E5%8E%9A%E6%B7%B7%E5%90%88%E5%88%86%E5%B8%83%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AB%E3%82%88%E3%82%8B%E3%83%99%E3%82%A4%E3%82%BA%E6%8E%A8%E5%AE%9A) （口頭発表）
 - 日本物理学会 2022年秋季大会  [12pH112-5 「薄膜X線回折とX線反射率を組み合わせた膜厚のベイズ推定」](https://onsite.gakkai-web.net/jps/jps_search/2022au/data2/html/program11.html#j12pH112:~:text=%E8%96%84%E8%86%9CX%E7%B7%9A%E5%9B%9E%E6%8A%98%E3%81%A8X%E7%B7%9A%E5%8F%8D%E5%B0%84%E7%8E%87%E3%82%92%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B%E3%81%9F%E8%86%9C%E5%8E%9A%E3%81%AE%E3%83%99%E3%82%A4%E3%82%BA%E6%8E%A8%E5%AE%9A)（口頭発表）
 - 第70回 応用物理学会春季学術講演会 [18a-A401-6 「薄膜X線回折とX線反射率を組み合わせたベイズ解析」](https://confit.atlas.jp/guide/event/jsap2023s/subject/18a-A401-6/advanced) （口頭発表）
+
+### その他発表
+
+- [第二回 DSSシンポジウム（東京大学情報理工学系研究科データサイエンティスト養成講座シンポジウム）](http://symposium.dss.i.u-tokyo.ac.jp/) ポスター発表
+- [SPRING GXが提供するランチョンセミナー - 統合自然科学科 駒場サイエンス倶楽部 大学院生シリーズ](http://wings-abc.c.u-tokyo.ac.jp/%e9%a7%92%e5%a0%b4%e3%82%b5%e3%82%a4%e3%82%a8%e3%83%b3%e3%82%b9%e5%80%b6%e6%a5%bd%e9%83%a8/) 口頭発表
