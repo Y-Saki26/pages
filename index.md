@@ -119,6 +119,16 @@ C# で数個の要素をベクトル的演算したときの比較<br>
 <dt>Twitter <a href="https://twitter.com/UndercapeY">@UndercapeY</a></dt>
 <dd>日常的なつぶやき</dd>
 <dt><a href="https://www.linkedin.com/in/yuki-sakishita">LinkedIn</a></dt>
+<dt>UTokyo DSS Blog 寄稿記事</a></dt>
+<dd>DSSでの活動</dd>
+<dd>
+<details open>
+<summary>記事一覧</summary>
+<div>
+<ul>
+<li><a href="https://dss.i.u-tokyo.ac.jp/blog/%e3%80%8emachine-learning-for-asset-managers%e3%80%8f%e3%81%ae%e3%83%aa%e3%83%9d%e3%82%b8%e3%83%88%e3%83%aa%e3%81%ab%e8%b2%a2%e7%8c%ae%e3%81%97%e3%81%be%e3%81%97%e3%81%9f/">『Machine Learning for Asset Managers』のリポジトリに貢献しました</a></li>
+</ul>
+</div>
 </dl>
 
 ## 業績
@@ -161,6 +171,7 @@ C# で数個の要素をベクトル的演算したときの比較<br>
 - 日本物理学会 第77回年次大会（2022年）[15pB14-11 「薄膜X線ラウエ振動の膜厚混合分布モデルによるベイズ推定」](https://onsite.gakkai-web.net/jps/jps_search/2022sp/data2/html/program11.html#:~:text=%E8%96%84%E8%86%9CX%E7%B7%9A%E3%83%A9%E3%82%A6%E3%82%A8%E6%8C%AF%E5%8B%95%E3%81%AE%E8%86%9C%E5%8E%9A%E6%B7%B7%E5%90%88%E5%88%86%E5%B8%83%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AB%E3%82%88%E3%82%8B%E3%83%99%E3%82%A4%E3%82%BA%E6%8E%A8%E5%AE%9A) （口頭発表）
 - 日本物理学会 2022年秋季大会  [12pH112-5 「薄膜X線回折とX線反射率を組み合わせた膜厚のベイズ推定」](https://onsite.gakkai-web.net/jps/jps_search/2022au/data2/html/program11.html#j12pH112:~:text=%E8%96%84%E8%86%9CX%E7%B7%9A%E5%9B%9E%E6%8A%98%E3%81%A8X%E7%B7%9A%E5%8F%8D%E5%B0%84%E7%8E%87%E3%82%92%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B%E3%81%9F%E8%86%9C%E5%8E%9A%E3%81%AE%E3%83%99%E3%82%A4%E3%82%BA%E6%8E%A8%E5%AE%9A)（口頭発表）
 - 第70回 応用物理学会春季学術講演会 [18a-A401-6 「薄膜X線回折とX線反射率を組み合わせたベイズ解析」](https://confit.atlas.jp/guide/event/jsap2023s/subject/18a-A401-6/advanced) （口頭発表）
+- 第84回 応用物理学会秋季学術講演会 [19p-C601-12 「高イオン伝導性材料探索のためのベイズ最適化フレームワーク」](https://pub.confit.atlas.jp/ja/event/jsap2023a/presentation/19p-C601-12) （口頭発表）
 
 ### その他発表
 
