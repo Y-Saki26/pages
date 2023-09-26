@@ -27,108 +27,115 @@ lastmod: 2021-10-18
 ## コンテンツ
 
 <dl>
-<dt>本サイト</dt>
-<dd>→ <a href="./posts/sitemap">サイトマップ</a></dd>
-<dt><a href="https://researchmap.jp/yuki_sakishita">reserchmap</a></dt>
-<dd>研究業績のまとめ</dd>
-<dt><a href="https://zenn.dev/ysaki51">Zenn</a></dt>
-<dd>プログラミング関係の記事</dd>
-<dd>
-<details>
-<summary>記事一覧</summary>
-<div>
-<ul>
-<li><a href="https://zenn.dev/ysaki51/articles/45d180e3755410">C#におけるベクトル的データ構造のパフォーマンス比較①</a></li>
-<li><a href="https://zenn.dev/ysaki51/articles/47122564898e5d">C#におけるベクトル的データ構造のパフォーマンス比較②</a></li>
-</ul>
-</div>
-</details>
-</dd>
-<dt><a href="https://mathlog.info/users/2173/articles">MathLog</a></dt>
-<dd>数学的な記事</dd>
-<dd>
-<details>
-<summary>記事一覧</summary>
-<div>
-<ul>
-<li><a href="https://mathlog.info/articles/2644">傾きを共有して切片が異なるデータ列の線形回帰</a></li>
-<li><a href="https://mathlog.info/articles/2936">相関係数と線形回帰の関係</a></li>
-<li><a href="https://mathlog.info/articles/3146">2点の最短経路が直線であることを変分法で示す</a></li>
-</ul>
-</div>
-</details>
-</dd>
-<dt>はてなブログ</dt>
-<dd><a href="https://undercapey.hatenablog.com/">Y. Saki の実験ノート</a></dd>
-<dd>
-<details>
-<summary>記事一覧</summary>
-<div>
-<ul>
-<li><a
-href="https://undercapey.hatenablog.com/entry/2022/08/22/154815">2重の三角関数の級数展開とBessel関数とJosephson効果</a>
-</li>
-</ul>
-</div>
-</details>
-</dd>
-<dt><a href="https://github.com/Y-Saki26">GitHub</a></dt>
-<dd>研究やブログ記事関連のソースコード</dd>
-<dd>
-<details>
-<summary>レポジトリ一覧</summary>
-<div>
-<ul>
-<li><a href="https://github.com/Y-Saki26/pages">pages</a><br>
-本サイト</li>
-<li><a href="https://github.com/Y-Saki26/memorandum">memorandum</a><br>
-備忘録用コード集
-<ul>
-<li><a href="https://github.com/Y-Saki26/memorandum/tree/main/SimpleNeuralNet-hands-on"
-title="SimpleNeuralNet-hands-on">SimpleNeuralNet-hands-on</a><br>
-skleran風APIラッパー skorch を用いた PyTorch によるニューラルネットの構築・学習・検証の覚書</li>
-<li><a href="https://github.com/Y-Saki26/memorandum/tree/main/MatInterp"
-title="MatInterp">MatInterp</a><br>
-ニューラルネットを用いて3次元曲面補間を行うアプリケーション MatInterp を導入し適当な問題で動かせるようする．</li>
-<li><a href="https://github.com/Y-Saki26/memorandum/tree/main/MachineEpsilon"
-title="MachineEpsilon">MachineEpsilon</a><br>
-Python と C# で計算機イプシロンの計算．</li>
-<li><a href="https://github.com/Y-Saki26/memorandum/tree/main/MazeGenerator"
-title="MazeGenerator">MazeGenerator</a><br>
-壁伸ばし法による迷路生成アルゴリズム．</li>
-</ul>
-</li>
-<li><a href="https://github.com/Y-Saki26/pages-blog-template-minimal">pages-blog-template-minimal</a><br>
-Jekyll で GitHub Pages の Website を作る際のテンプレート</li>
-<li><a href="https://github.com/Y-Saki26/benchmarks">benchmarks</a><br>
-ベンチマーク集
-<ul>
-<li><a href="https://github.com/Y-Saki26/benchmarks/tree/main/Benchmark/Vectors"
-title="Vectors">Vectors</a><br>
-C# で数個の要素をベクトル的演算したときの比較<br>
-<a href="https://zenn.dev/ysaki51/articles/45d180e3755410">Zennの記事</a> 参照．
-</li>
-</ul>
-</li>
-<li><a href="https://github.com/Y-Saki26/remcmc">remcmc</a><br>
-レプリカ交換MCMCの計算(開発中)</li>
-</ul>
-</div>
-</details>
-</dd>
-<dt>Twitter <a href="https://twitter.com/UndercapeY">@UndercapeY</a></dt>
-<dd>日常的なつぶやき</dd>
-<dt><a href="https://www.linkedin.com/in/yuki-sakishita">LinkedIn</a></dt>
-<dt>UTokyo DSS Blog 寄稿記事</a></dt>
-<dd>DSSでの活動</dd>
-<dd>
-<details open>
-<summary>記事一覧</summary>
-<div>
-<ul>
-<li><a href="https://dss.i.u-tokyo.ac.jp/blog/%e3%80%8emachine-learning-for-asset-managers%e3%80%8f%e3%81%ae%e3%83%aa%e3%83%9d%e3%82%b8%e3%83%88%e3%83%aa%e3%81%ab%e8%b2%a2%e7%8c%ae%e3%81%97%e3%81%be%e3%81%97%e3%81%9f/">『Machine Learning for Asset Managers』のリポジトリに貢献しました</a></li>
-</ul>
-</div>
+    <dt>本サイト</dt>
+    <dd>→ <a href="./posts/sitemap">サイトマップ</a></dd>
+    <dt><a href="https://researchmap.jp/yuki_sakishita">reserchmap</a></dt>
+    <dd>研究業績のまとめ</dd>
+    <dt><a href="https://zenn.dev/ysaki51">Zenn</a></dt>
+    <dd>プログラミング関係の記事</dd>
+    <dd>
+        <details>
+            <summary>記事一覧</summary>
+            <div>
+                <ul>
+                    <li><a href="https://zenn.dev/ysaki51/articles/45d180e3755410">C#におけるベクトル的データ構造のパフォーマンス比較①</a></li>
+                    <li><a href="https://zenn.dev/ysaki51/articles/47122564898e5d">C#におけるベクトル的データ構造のパフォーマンス比較②</a></li>
+                </ul>
+            </div>
+        </details>
+    </dd>
+    <dt><a href="https://mathlog.info/users/2173/articles">MathLog</a></dt>
+    <dd>数学的な記事</dd>
+    <dd>
+        <details>
+            <summary>記事一覧</summary>
+            <div>
+                <ul>
+                    <li><a href="https://mathlog.info/articles/2644">傾きを共有して切片が異なるデータ列の線形回帰</a></li>
+                    <li><a href="https://mathlog.info/articles/2936">相関係数と線形回帰の関係</a></li>
+                    <li><a href="https://mathlog.info/articles/3146">2点の最短経路が直線であることを変分法で示す</a></li>
+                </ul>
+            </div>
+        </details>
+    </dd>
+    <dt>はてなブログ</dt>
+    <dd><a href="https://undercapey.hatenablog.com/">Y. Saki の実験ノート</a></dd>
+    <dd>
+        <details>
+            <summary>記事一覧</summary>
+            <div>
+                <ul>
+                    <li><a href="https://undercapey.hatenablog.com/entry/2022/08/22/154815">2重の三角関数の級数展開とBessel関数とJosephson効果</a></li>
+                </ul>
+            </div>
+        </details>
+    </dd>
+    <dt><a href="https://github.com/Y-Saki26">GitHub</a></dt>
+    <dd>研究やブログ記事関連のソースコード</dd>
+    <dd>
+        <details>
+            <summary>レポジトリ一覧</summary>
+            <div>
+                <ul>
+                    <li><a href="https://github.com/Y-Saki26/pages" title="pages">pages</a><br>
+                        本サイト
+                    </li>
+                    <li><a href="https://github.com/Y-Saki26/memorandum" title="memorandum">memorandum</a><br>
+                        備忘録用コード集
+                        <ul>
+                            <li><a href="https://github.com/Y-Saki26/memorandum/tree/main/SimpleNeuralNet-hands-on" title="SimpleNeuralNet-hands-on">SimpleNeuralNet-hands-on</a><br>
+                                skleran風APIラッパー skorch を用いた PyTorch によるニューラルネットの構築・学習・検証の覚書
+                            </li>
+                            <li><a href="https://github.com/Y-Saki26/memorandum/tree/main/MatInterp" title="MatInterp">MatInterp</a><br>
+                                ニューラルネットを用いて3次元曲面補間を行うアプリケーション MatInterp を導入し適当な問題で動かせるようする．
+                            </li>
+                            <li><a href="https://github.com/Y-Saki26/memorandum/tree/main/MachineEpsilon" title="MachineEpsilon">MachineEpsilon</a><br>
+                                Python と C# で計算機イプシロンの計算．</li>
+                            <li><a href="https://github.com/Y-Saki26/memorandum/tree/main/MazeGenerator" title="MazeGenerator">MazeGenerator</a><br>
+                                壁伸ばし法による迷路生成アルゴリズム．</li>
+                        </ul>
+                    </li>
+                    <li><a href="https://github.com/Y-Saki26/pages-blog-template-minimal">pages-blog-template-minimal</a><br>
+                        Jekyll で GitHub Pages の Website を作る際のテンプレート</li>
+                    <li><a href="https://github.com/Y-Saki26/benchmarks">benchmarks</a><br>
+                        ベンチマーク集
+                        <ul>
+                            <li><a href="https://github.com/Y-Saki26/benchmarks/tree/main/Benchmark/Vectors" title="Vectors">Vectors</a><br>
+                                C# で数個の要素をベクトル的演算したときの比較<br>
+                                <a href="https://zenn.dev/ysaki51/articles/45d180e3755410">Zennの記事</a> 参照．
+                            </li>
+                        </ul>
+                    </li>
+                    <li><a href="https://github.com/Y-Saki26/remcmc" title="remcmc">remcmc</a><br>
+                        レプリカ交換MCMCの計算(開発中)
+                    </li>
+                    <li><a href="https://github.com/Y-Saki26/CSVOpener" title="CSVOpener">CSVOpener</a><br>
+                        UTF-8のCSVファイルを文字化けせずに開く
+                    </li>
+                    <li><a href="https://github.com/Y-Saki26/Machine-Learning-for-Asset-Managers" title="Machine-Learning-for-Asset-Managers">Machine-Learning-for-Asset-Managers</a><br>
+                        "Machine-Learning-for-Asset-Managers" のサンプルコード集のFork．バグ修正．
+                    </li>
+                </ul>
+            </div>
+        </details>
+    </dd>
+    <dt>Twitter <a href="https://twitter.com/UndercapeY">@UndercapeY</a></dt>
+    <dd>日常的なつぶやき</dd>
+    <dt><a href="https://www.linkedin.com/in/yuki-sakishita">LinkedIn</a></dt>
+    <dt>UTokyo DSS Blog 寄稿記事</a></dt>
+    <dd>DSSでの活動</dd>
+    <dd>
+        <details open>
+            <summary>記事一覧</summary>
+            <div>
+                <ul>
+                    <li><a
+                            href="https://dss.i.u-tokyo.ac.jp/blog/%e3%80%8emachine-learning-for-asset-managers%e3%80%8f%e3%81%ae%e3%83%aa%e3%83%9d%e3%82%b8%e3%83%88%e3%83%aa%e3%81%ab%e8%b2%a2%e7%8c%ae%e3%81%97%e3%81%be%e3%81%97%e3%81%9f/">『Machine
+                            Learning for Asset Managers』のリポジトリに貢献しました</a></li>
+                </ul>
+            </div>
+        </details>
+    </dd>
 </dl>
 
 ## 業績
