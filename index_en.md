@@ -15,7 +15,7 @@ date: 2021-10-18
 <dd>崎下雄稀（Sakishita Yuki）</dd>
 <dt>Affiliation</dt>
 <dd>Dept. of Basic Science, Univ. of Tokyo<br>
-2nd year of a PhD program (as of 2022)</dd>
+3rd year of a PhD program (as of 2023)</dd>
 <dt>Field of Study</dt>
 <dd>Condensed Matter Physics, Information Statistical Mechanics</dd>
 <dt>Email</dt>
@@ -32,11 +32,13 @@ I am currently conducting research in the field of information and statistical m
 
 ### Conference presentation (domestic)
 
-- 日本物理学会 第75回年次大会（2020年）  [18pPSA-24 「超伝導転移温度の予測における機械学習手法の比較」](https://w4.gakkai-web.net/jps_search/2020sp/data/html/program06.html#j18pPSA:~:text=%E8%B6%85%E4%BC%9D%E5%B0%8E%E8%BB%A2%E7%A7%BB%E6%B8%A9%E5%BA%A6%E3%81%AE%E4%BA%88%E6%B8%AC%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E6%89%8B%E6%B3%95%E3%81%AE%E6%AF%94%E8%BC%83) （ポスター ※ 新型コロナウイルス感染症への対策のため講演概要原稿の掲示のみ）
-- 日本物理学会 2021年秋季大会  [22aL4-6 「マルコフ連鎖モンテカルロ法を用いた薄膜X線ラウエ振動のベイズ推定による解析」](https://w4.gakkai-web.net/jps_search/2021au/data/html/program11.html#:~:text=%E3%83%9E%E3%83%AB%E3%82%B3%E3%83%95%E9%80%A3%E9%8E%96%E3%83%A2%E3%83%B3%E3%83%86%E3%82%AB%E3%83%AB%E3%83%AD%E6%B3%95%E3%82%92%E7%94%A8%E3%81%84%E3%81%9F%E8%96%84%E8%86%9CX%E7%B7%9A%E3%83%A9%E3%82%A6%E3%82%A8%E6%8C%AF%E5%8B%95%E3%81%AE%E3%83%99%E3%82%A4%E3%82%BA%E6%8E%A8%E5%AE%9A%E3%81%AB%E3%82%88%E3%82%8B%E8%A7%A3%E6%9E%90) （口頭発表）
-- 日本物理学会 第77回年次大会（2022年）[15pB14-11 「薄膜X線ラウエ振動の膜厚混合分布モデルによるベイズ推定」](https://onsite.gakkai-web.net/jps/jps_search/2022sp/data2/html/program11.html#:~:text=%E8%96%84%E8%86%9CX%E7%B7%9A%E3%83%A9%E3%82%A6%E3%82%A8%E6%8C%AF%E5%8B%95%E3%81%AE%E8%86%9C%E5%8E%9A%E6%B7%B7%E5%90%88%E5%88%86%E5%B8%83%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AB%E3%82%88%E3%82%8B%E3%83%99%E3%82%A4%E3%82%BA%E6%8E%A8%E5%AE%9A) （口頭発表）
-- 日本物理学会 2022年秋季大会  [12pH112-5 「薄膜X線回折とX線反射率を組み合わせた膜厚のベイズ推定」](https://onsite.gakkai-web.net/jps/jps_search/2022au/data2/html/program11.html#j12pH112:~:text=%E8%96%84%E8%86%9CX%E7%B7%9A%E5%9B%9E%E6%8A%98%E3%81%A8X%E7%B7%9A%E5%8F%8D%E5%B0%84%E7%8E%87%E3%82%92%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B%E3%81%9F%E8%86%9C%E5%8E%9A%E3%81%AE%E3%83%99%E3%82%A4%E3%82%BA%E6%8E%A8%E5%AE%9A)（口頭発表）
-- 第70回 応用物理学会春季学術講演会 [18a-A401-6 「薄膜X線回折とX線反射率を組み合わせたベイズ解析」](https://confit.atlas.jp/guide/event/jsap2023s/subject/18a-A401-6/advanced) （口頭発表）
+- 日本物理学会 第75回年次大会（2020年）  [18pPSA-24 「超伝導転移温度の予測における機械学習手法の比較」](https://w4.gakkai-web.net/jps_search/2020sp/data/html/program06.html#j18pPSA:~:text=%E8%B6%85%E4%BC%9D%E5%B0%8E%E8%BB%A2%E7%A7%BB%E6%B8%A9%E5%BA%A6%E3%81%AE%E4%BA%88%E6%B8%AC%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E6%89%8B%E6%B3%95%E3%81%AE%E6%AF%94%E8%BC%83) (Poster ※ Only post manuscripts of lecture summaries to counter COVID19)
+- 日本物理学会 2021年秋季大会  [22aL4-6 「マルコフ連鎖モンテカルロ法を用いた薄膜X線ラウエ振動のベイズ推定による解析」](https://w4.gakkai-web.net/jps_search/2021au/data/html/program11.html#:~:text=%E3%83%9E%E3%83%AB%E3%82%B3%E3%83%95%E9%80%A3%E9%8E%96%E3%83%A2%E3%83%B3%E3%83%86%E3%82%AB%E3%83%AB%E3%83%AD%E6%B3%95%E3%82%92%E7%94%A8%E3%81%84%E3%81%9F%E8%96%84%E8%86%9CX%E7%B7%9A%E3%83%A9%E3%82%A6%E3%82%A8%E6%8C%AF%E5%8B%95%E3%81%AE%E3%83%99%E3%82%A4%E3%82%BA%E6%8E%A8%E5%AE%9A%E3%81%AB%E3%82%88%E3%82%8B%E8%A7%A3%E6%9E%90) (Oral)
+- 日本物理学会 第77回年次大会（2022年）[15pB14-11 「薄膜X線ラウエ振動の膜厚混合分布モデルによるベイズ推定」](https://onsite.gakkai-web.net/jps/jps_search/2022sp/data2/html/program11.html#:~:text=%E8%96%84%E8%86%9CX%E7%B7%9A%E3%83%A9%E3%82%A6%E3%82%A8%E6%8C%AF%E5%8B%95%E3%81%AE%E8%86%9C%E5%8E%9A%E6%B7%B7%E5%90%88%E5%88%86%E5%B8%83%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AB%E3%82%88%E3%82%8B%E3%83%99%E3%82%A4%E3%82%BA%E6%8E%A8%E5%AE%9A) (Oral)
+- 日本物理学会 2022年秋季大会  [12pH112-5 「薄膜X線回折とX線反射率を組み合わせた膜厚のベイズ推定」](https://onsite.gakkai-web.net/jps/jps_search/2022au/data2/html/program11.html#j12pH112:~:text=%E8%96%84%E8%86%9CX%E7%B7%9A%E5%9B%9E%E6%8A%98%E3%81%A8X%E7%B7%9A%E5%8F%8D%E5%B0%84%E7%8E%87%E3%82%92%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B%E3%81%9F%E8%86%9C%E5%8E%9A%E3%81%AE%E3%83%99%E3%82%A4%E3%82%BA%E6%8E%A8%E5%AE%9A) (Oral)
+- 第70回 応用物理学会春季学術講演会 [18a-A401-6 「薄膜X線回折とX線反射率を組み合わせたベイズ解析」](https://confit.atlas.jp/guide/event/jsap2023s/subject/18a-A401-6/advanced) (Oral)
+- 第84回 応用物理学会秋季学術講演会 [19p-C601-12 「高イオン伝導性材料探索のためのベイズ最適化フレームワーク」](https://pub.confit.atlas.jp/ja/event/jsap2023a/presentation/19p-C601-12) (Oral)
+- [The 7th Asian Materials Data Symposium(AMDS 2023)](https://www.amds2023.com/index.php) P30 "Bayesian optimization for efficient discovery of high ionic conductivity materials" (Poster)
 
 ### Education
 
@@ -56,79 +58,116 @@ I am currently conducting research in the field of information and statistical m
 
 ## My Contents
 
+
 <dl>
-<dt><a href="https://researchmap.jp/yuki_sakishita">reserchmap</a></dt>
-<dt><a href="https://zenn.dev/ysaki51">Zenn</a></dt>
-<dd>
-<details>
-<summary>Article List</summary>
-<div>
-<ul>
-<li><a href="https://zenn.dev/ysaki51/articles/45d180e3755410">C#におけるベクトル的データ構造のパフォーマンス比較①</a></li>
-<li><a href="https://zenn.dev/ysaki51/articles/47122564898e5d">C#におけるベクトル的データ構造のパフォーマンス比較②</a></li>
-</ul>
-</div>
-</details>
-</dd>
-<dt><a href="https://mathlog.info/users/2173/articles">MathLog</a></dt>
-<dd>
-<details>
-<summary>Article List</summary>
-<div>
-<ul>
-<li><a href="https://mathlog.info/articles/2644">傾きを共有して切片が異なるデータ列の線形回帰</a></li>
-<li><a href="https://mathlog.info/articles/2936">相関係数と線形回帰の関係</a></li>
-<li><a href="https://mathlog.info/articles/3146">2点の最短経路が直線であることを変分法で示す</a></li>
-</ul>
-</div>
-</details>
-</dd>
-<dt>はてなブログ</dt>
-<dd><a href="https://undercapey.hatenablog.com/">Y. Saki の実験ノート</a></dd>
-<dd>
-<details>
-<summary>Article List</summary>
-<div>
-<ul>
-<li><a
-href="https://undercapey.hatenablog.com/entry/2022/08/22/154815">2重の三角関数の級数展開とBessel関数とJosephson効果</a>
-</li>
-</ul>
-</div>
-</details>
-</dd>
-<dt><a href="https://github.com/Y-Saki26">GitHub</a></dt>
-<dd>
-<details>
-<summary>Repository List</summary>
-<div>
-<ul>
-<li><a href="https://github.com/Y-Saki26/pages">pages</a><br>
-This Website</li>
-<li><a href="https://github.com/Y-Saki26/memorandum">memorandum</a><br>
-Code collection for memorandum
-<ul>
-<li><a href="https://github.com/Y-Saki26/memorandum/tree/main/SimpleNeuralNet-hands-on"
-title="SimpleNeuralNet-hands-onn">SimpleNeuralNet-hands-on</a><br>
-Memorandum on Building, Training, and Validating Neural Networks with PyTorch Using skorch, a skleran-like API Wrapper</li>
-</ul>
-</li>
-<li><a href="https://github.com/Y-Saki26/benchmarks">benchmarks</a><br>
-Benchmark Collection
-<ul>
-<li><a href="https://github.com/Y-Saki26/benchmarks/tree/main/Benchmark/Vectors"
-title="Vectors">Vectors</a><br>
-Comparison of vectorial operations on several elements in C#<br>
-See <a href="https://zenn.dev/ysaki51/articles/45d180e3755410">Articles in Zenn</a>.
-</li>
-</ul>
-</li>
-<li><a href="https://github.com/Y-Saki26/remcmc">remcmc</a><br>
-Replica exchange MCMC calculation (WIP)</li>
-</ul>
-</div>
-</details>
-</dd>
-<dt>Twitter <a href="https://twitter.com/UndercapeY">@UndercapeY</a></dt>
-<dt><a href="https://www.linkedin.com/in/yuki-sakishita">LinkedIn</a></dt>
+    <dt>This page</dt>
+    <dd>→ <a href="./posts/sitemap">Sitemap</a></dd>
+    <dt><a href="https://researchmap.jp/yuki_sakishita">reserchmap</a></dt>
+    <dd>Research Achievements</dd>
+    <dt><a href="https://zenn.dev/ysaki51">Zenn</a></dt>
+    <dd>プログラミング関係の記事</dd>
+    <dd>
+        <details>
+            <summary>記事一覧</summary>
+            <div>
+                <ul>
+                    <li><a href="https://zenn.dev/ysaki51/articles/45d180e3755410">C#におけるベクトル的データ構造のパフォーマンス比較①</a></li>
+                    <li><a href="https://zenn.dev/ysaki51/articles/47122564898e5d">C#におけるベクトル的データ構造のパフォーマンス比較②</a></li>
+                </ul>
+            </div>
+        </details>
+    </dd>
+    <dt><a href="https://mathlog.info/users/2173/articles">MathLog</a></dt>
+    <dd>数学的な記事</dd>
+    <dd>
+        <details>
+            <summary>記事一覧</summary>
+            <div>
+                <ul>
+                    <li><a href="https://mathlog.info/articles/2644">傾きを共有して切片が異なるデータ列の線形回帰</a></li>
+                    <li><a href="https://mathlog.info/articles/2936">相関係数と線形回帰の関係</a></li>
+                    <li><a href="https://mathlog.info/articles/3146">2点の最短経路が直線であることを変分法で示す</a></li>
+                </ul>
+            </div>
+        </details>
+    </dd>
+    <dt>はてなブログ</dt>
+    <dd><a href="https://undercapey.hatenablog.com/">Y. Saki の実験ノート</a></dd>
+    <dd>
+        <details>
+            <summary>記事一覧</summary>
+            <div>
+                <ul>
+                    <li><a href="https://undercapey.hatenablog.com/entry/2022/08/22/154815">2重の三角関数の級数展開とBessel関数とJosephson効果</a></li>
+                </ul>
+            </div>
+        </details>
+    </dd>
+    <dt><a href="https://github.com/Y-Saki26">GitHub</a></dt>
+    <dd>研究やブログ記事関連のソースコード</dd>
+    <dd>
+        <details>
+            <summary>レポジトリ一覧</summary>
+            <div>
+                <ul>
+                    <li><a href="https://github.com/Y-Saki26/pages" title="pages">pages</a><br>
+                        本サイト
+                    </li>
+                    <li><a href="https://github.com/Y-Saki26/memorandum" title="memorandum">memorandum</a><br>
+                        備忘録用コード集
+                        <ul>
+                            <li><a href="https://github.com/Y-Saki26/memorandum/tree/main/SimpleNeuralNet-hands-on" title="SimpleNeuralNet-hands-on">SimpleNeuralNet-hands-on</a><br>
+                                skleran風APIラッパー skorch を用いた PyTorch によるニューラルネットの構築・学習・検証の覚書
+                            </li>
+                            <li><a href="https://github.com/Y-Saki26/memorandum/tree/main/MatInterp" title="MatInterp">MatInterp</a><br>
+                                ニューラルネットを用いて3次元曲面補間を行うアプリケーション MatInterp を導入し適当な問題で動かせるようする．
+                            </li>
+                            <li><a href="https://github.com/Y-Saki26/memorandum/tree/main/MachineEpsilon" title="MachineEpsilon">MachineEpsilon</a><br>
+                                Python と C# で計算機イプシロンの計算．</li>
+                            <li><a href="https://github.com/Y-Saki26/memorandum/tree/main/MazeGenerator" title="MazeGenerator">MazeGenerator</a><br>
+                                壁伸ばし法による迷路生成アルゴリズム．</li>
+                        </ul>
+                    </li>
+                    <li><a href="https://github.com/Y-Saki26/pages-blog-template-minimal">pages-blog-template-minimal</a><br>
+                        Jekyll で GitHub Pages の Website を作る際のテンプレート</li>
+                    <li><a href="https://github.com/Y-Saki26/benchmarks">benchmarks</a><br>
+                        ベンチマーク集
+                        <ul>
+                            <li><a href="https://github.com/Y-Saki26/benchmarks/tree/main/Benchmark/Vectors" title="Vectors">Vectors</a><br>
+                                C# で数個の要素をベクトル的演算したときの比較<br>
+                                <a href="https://zenn.dev/ysaki51/articles/45d180e3755410">Zennの記事</a> 参照．
+                            </li>
+                        </ul>
+                    </li>
+                    <li><a href="https://github.com/Y-Saki26/remcmc" title="remcmc">remcmc</a><br>
+                        レプリカ交換MCMCの計算(開発中)
+                    </li>
+                    <li><a href="https://github.com/Y-Saki26/CSVOpener" title="CSVOpener">CSVOpener</a><br>
+                        UTF-8のCSVファイルを文字化けせずに開く
+                    </li>
+                    <li><a href="https://github.com/Y-Saki26/Machine-Learning-for-Asset-Managers" title="Machine-Learning-for-Asset-Managers">Machine-Learning-for-Asset-Managers</a><br>
+                        "Machine-Learning-for-Asset-Managers" のサンプルコード集のFork．バグ修正．
+                    </li>
+                </ul>
+            </div>
+        </details>
+    </dd>
+    <dt>Twitter <a href="https://twitter.com/UndercapeY">@UndercapeY</a></dt>
+    <dd>日常的なつぶやき</dd>
+    <dt><a href="https://www.linkedin.com/in/yuki-sakishita">LinkedIn</a></dt>
+    <dt>UTokyo DSS Blog 寄稿記事</a></dt>
+    <dd>DSSでの活動</dd>
+    <dd>
+        <details open>
+            <summary>記事一覧</summary>
+            <div>
+                <ul>
+                    <li><a
+                            href="https://dss.i.u-tokyo.ac.jp/blog/%e3%80%8emachine-learning-for-asset-managers%e3%80%8f%e3%81%ae%e3%83%aa%e3%83%9d%e3%82%b8%e3%83%88%e3%83%aa%e3%81%ab%e8%b2%a2%e7%8c%ae%e3%81%97%e3%81%be%e3%81%97%e3%81%9f/">『Machine
+                            Learning for Asset Managers』のリポジトリに貢献しました</a></li>
+                </ul>
+            </div>
+        </details>
+    </dd>
 </dl>
+
