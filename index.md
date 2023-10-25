@@ -15,7 +15,7 @@ lastmod: 2021-10-18
 <dd>崎下雄稀（Sakishita Yuki）</dd>
 <dt>所属</dt>
 <dd>東京大学大学院総合文化研究科広域科学専攻相関基礎科学系<br>
-博士後期課程2年(2022年現在)</dd>
+博士後期課程3年 (2023年現在)</dd>
 <dt>研究分野</dt>
 <dd>物性物理学，情報統計力学</dd>
 <dt>メールアドレス</dt>
@@ -182,6 +182,6 @@ lastmod: 2021-10-18
 
 ### その他発表
 
-- [第二回 DSSシンポジウム（東京大学情報理工学系研究科データサイエンティスト養成講座シンポジウム）](http://symposium.dss.i.u-tokyo.ac.jp/) ポスター発表
-- [SPRING GXが提供するランチョンセミナー - 統合自然科学科 駒場サイエンス倶楽部 大学院生シリーズ](http://wings-abc.c.u-tokyo.ac.jp/%e9%a7%92%e5%a0%b4%e3%82%b5%e3%82%a4%e3%82%a8%e3%83%b3%e3%82%b9%e5%80%b6%e6%a5%bd%e9%83%a8/) 口頭発表
+- [第二回 DSSシンポジウム（東京大学情報理工学系研究科データサイエンティスト養成講座シンポジウム）](http://symposium.dss.i.u-tokyo.ac.jp/) 「ベイズ推定とレプリカ交換法によるロバストな実験データ解析」 ポスター発表
+- [SPRING GXが提供するランチョンセミナー - 統合自然科学科 駒場サイエンス倶楽部 大学院生シリーズ](http://wings-abc.c.u-tokyo.ac.jp/%e9%a7%92%e5%a0%b4%e3%82%b5%e3%82%a4%e3%82%a8%e3%83%b3%e3%82%b9%e5%80%b6%e6%a5%bd%e9%83%a8/) 第5回 「統計力学の手法による実験データ解析のロバスト化」 口頭発表
 - [The 7th Asian Materials Data Symposium(AMDS 2023)](https://www.amds2023.com/index.php) P30 "Bayesian optimization for efficient discovery of high ionic conductivity materials" ポスター発表
