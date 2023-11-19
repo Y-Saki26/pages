@@ -57,16 +57,12 @@
         </li>
     </ul>
 </details>
-<div>
-    <label>文字を入力: <input type="text" id="inputText" name="inputText" maxlength="100" size="80" value="kipsol"/></label>
-    <p><canvas id="canvas" width="800" height="500" style="border:1px solid;"></canvas>
-</div>
-<div>
-    <p>
-        <button type="button" onclick="downloadAsJSON()">Export JSON</button>
-        <button type="button" onclick="downloadAsSVG()">Export SVG</button>
-    </p>
-</div>
+<label>文字を入力: <input type="text" id="inputText" name="inputText" maxlength="100" size="80" value="kipsol"/></label>
+<p><canvas id="canvas" width="800" height="500" style="border:1px solid;"></canvas>
+<p>
+    <button type="button" onclick="downloadAsJSON()">Export JSON</button>
+    <button type="button" onclick="downloadAsSVG()">Export SVG</button>
+</p>
 
 ## 参考
 
