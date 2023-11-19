@@ -1,12 +1,23 @@
-## キプソル語
+# キプソル語
 
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/fabric.js/5.3.1/fabric.min.js"></script>
-<script type="text/javascript" src="./kipsol_script.js"></script>
+## 使用方法
 
-<div>
-    <p>凡例:</p>
-    <canvas id="canvasExample" width="800" height="300" style="border:1px solid;"></canvas>
-</div>
++ 「文字を入力: 」欄に（キプソル語の単語として有効な）文字列を入力すると対応する文字を出力します
++ Export JSON/SVGをクリックすると文字の画像情報がダウンロードされます
++ ▶ 設定を開くと文字の大きさや角度が変更できます
+  + アニメーション間隔を0以上にすると文字が回転するアニメーションが動作します
+  + アニメーション間隔を0にするか停止ボタンでアニメーションが停止します
+
+## 免責事項
+
+試験的に作ったものなので異常な入力などはしないでください．不具合がありましたらGitHubをはじめ筆者の連絡先までご連絡ください．
+
+## 凡例
+
+<canvas id="canvasExample" width="800" height="300" style="border:1px solid;"></canvas>
+
+## キプソル文字出力
+
 <details>
     <summary>設定</summary>
     <ul>
@@ -45,8 +56,7 @@
     </ul>
 </details>
 <div>
-    <p>文字を入力:</p>
-    <input type="text" id="inputText" name="inputText" maxlength="100" size="80" value="kipsol"/>
+    <label>文字を入力: <input type="text" id="inputText" name="inputText" maxlength="100" size="80" value="kipsol"/></label>
     <canvas id="canvas" width="800" height="500" style="border:1px solid;"></canvas>
 </div>
 <div>
@@ -55,6 +65,15 @@
         <button type="button" onclick="downloadAsSVG()">Export SVG</button>
     </p>
 </div>
+
+## 参考
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r4AKMeUhRf4?si=tU2kELkOhcU4-aQ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[よくわかる！QuizKnockオリジナル言語「キプソル語」ガイド](https://web.quizknock.com/kipsil_lisok)
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/fabric.js/5.3.1/fabric.min.js"></script>
+<script type="text/javascript" src="./kipsol_script.js"></script>
 <script  type="text/javascript">
 
 const inputElement = document.getElementById('inputText');
@@ -151,8 +170,6 @@ function drawInputText(){
 
 drawInputText();
 inputElement.addEventListener("change", drawInputText);
-
-
 
 let settingElements = {};
 let intervalId;
