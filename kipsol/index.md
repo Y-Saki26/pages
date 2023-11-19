@@ -1,8 +1,9 @@
-# キプソル語
+# キプソル語ジェネレーター
 
 ## 使用方法
 
 + 「文字を入力: 」欄に（キプソル語の単語として有効な）文字列を入力すると対応する文字を出力します
+  + 複数の単語には未対応です
 + Export JSON/SVGをクリックすると文字の画像情報がダウンロードされます
 + ▶ 設定を開くと文字の大きさや角度が変更できます
   + アニメーション間隔を0以上にすると文字が回転するアニメーションが動作します
@@ -10,11 +11,12 @@
 
 ## 免責事項
 
-試験的に作ったものなので異常な入力などはしないでください．不具合がありましたらGitHubをはじめ筆者の連絡先までご連絡ください．
+試験的に作ったものなので異常な入力などはしないでください．
+不具合がありましたら筆者の連絡先（[GitHub](https://github.com/Y-Saki26/pages)）までご連絡ください．
 
 ## 凡例
 
-<canvas id="canvasExample" width="800" height="300" style="border:1px solid;"></canvas>
+<p><canvas id="canvasExample" width="800" height="300" style="border:1px solid;"></canvas></p>
 
 ## キプソル文字出力
 
@@ -50,14 +52,14 @@
             <ul>
                 <li><label>速度: <input type="number" id="inputRotationSpeed" name="inputRotationSpeed" maxlength="10" size="4" value="1"/> deg/sec</label></li>
                 <li><label>アニメーション間隔: <input type="number" id="inputAnimationSpan" name="inputAnimationSpan" maxlength="10" size="4" value="0"/> sec</label></li>
-                <li><button type="button" onclick="resetRotate()">停止</button>:  <input type="number" id="inputResetRotate" name="inputResetRotate" maxlength="10" size="4" value="0"/> deg.</label></li>
+                <li><label><button type="button" onclick="resetRotate()">停止</button>:  <input type="number" id="inputResetRotate" name="inputResetRotate" maxlength="10" size="4" value="0"/> deg.</label></li>
             </ul>
         </li>
     </ul>
 </details>
 <div>
     <label>文字を入力: <input type="text" id="inputText" name="inputText" maxlength="100" size="80" value="kipsol"/></label>
-    <canvas id="canvas" width="800" height="500" style="border:1px solid;"></canvas>
+    <p><canvas id="canvas" width="800" height="500" style="border:1px solid;"></canvas>
 </div>
 <div>
     <p>
@@ -68,9 +70,8 @@
 
 ## 参考
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r4AKMeUhRf4?si=tU2kELkOhcU4-aQ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-[よくわかる！QuizKnockオリジナル言語「キプソル語」ガイド](https://web.quizknock.com/kipsil_lisok)
++ <iframe width="560" height="315" src="https://www.youtube.com/embed/r4AKMeUhRf4?si=tU2kELkOhcU4-aQ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
++ [よくわかる！QuizKnockオリジナル言語「キプソル語」ガイド](https://web.quizknock.com/kipsil_lisok)
 
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/fabric.js/5.3.1/fabric.min.js"></script>
 <script type="text/javascript" src="./kipsol_script.js"></script>
