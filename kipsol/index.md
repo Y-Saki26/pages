@@ -58,7 +58,7 @@
     </ul>
 </details>
 <label>文字を入力: <input type="text" id="inputText" name="inputText" maxlength="100" size="80" value="kipsol"/></label>
-<p><canvas id="canvas" width="800" height="500" style="border:1px solid;"></canvas>
+<p><canvas id="canvas" width="800" height="500" style="border:1px solid;"></canvas></p>
 <p>
     <button type="button" onclick="downloadAsJSON()">Export JSON</button>
     <button type="button" onclick="downloadAsSVG()">Export SVG</button>
@@ -66,7 +66,8 @@
 
 ## 参考
 
-+ <iframe width="560" height="315" src="https://www.youtube.com/embed/r4AKMeUhRf4?si=tU2kELkOhcU4-aQ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r4AKMeUhRf4?si=tU2kELkOhcU4-aQ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 + [よくわかる！QuizKnockオリジナル言語「キプソル語」ガイド](https://web.quizknock.com/kipsil_lisok)
 
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/fabric.js/5.3.1/fabric.min.js"></script>
