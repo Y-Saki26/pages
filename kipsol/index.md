@@ -12,7 +12,7 @@
 ## 免責事項
 
 試験的に作ったものなので異常な入力などはしないでください．
-不具合がありましたら筆者の連絡先（[GitHub](https://github.com/Y-Saki26/pages)）までご連絡ください．
+不具合がありましたら筆者の連絡先（[GitHub](https://github.com/Y-Saki26/KipsolGenerator)）までご連絡ください．
 
 ## 凡例
 
