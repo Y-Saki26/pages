@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ホームページ
+title: 崎下雄稀 - 自己紹介
 description: Homepage of Y. Sakishita
 date: 2021-10-10
 lastmod: 2021-10-18
@@ -11,18 +11,18 @@ lastmod: 2021-10-18
 [日本語](./index) [English](./index_en)
 
 <dl>
-<dt>氏名</dt>
-<dd>崎下雄稀（Sakishita Yuki）</dd>
-<dt>所属</dt>
-<dd>東京大学大学院総合文化研究科広域科学専攻相関基礎科学系<br>
-博士後期課程3年 (2023年現在)</dd>
-<dt>研究分野</dt>
-<dd>物性物理学，情報統計力学</dd>
-<dt>メールアドレス</dt>
-<dd> ($\lambda A.$ sakishita-yuki26 $A$ g.ecc.u-tokyo.ac.jp) $@$ </dd>
+    <dt>氏名</dt>
+    <dd>崎下雄稀（Sakishita Yuki）</dd>
+    <dt>所属</dt>
+    <dd>東京大学大学院総合文化研究科広域科学専攻相関基礎科学系<br>
+        博士後期課程3年 (2023年現在)</dd>
+    <dt>研究分野</dt>
+    <dd>物性物理学，情報統計力学</dd>
+    <dt>メールアドレス</dt>
+    <dd> ($\lambda A.$ sakishita-yuki26 $A$ g.ecc.u-tokyo.ac.jp) $@$ </dd>
 </dl>
 
-情報統計力学分野で研究を行っています．
+情報統計力学分野の研究を行っています．
 
 ## コンテンツ
 
