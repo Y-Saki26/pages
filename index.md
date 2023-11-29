@@ -1,9 +1,9 @@
 ---
 layout: default
 title: 崎下雄稀 - 自己紹介
-description: Homepage of Y. Sakishita
+description: Introduction of Y. Sakishita
 date: 2021-10-10
-lastmod: 2021-10-18
+lastmod: 2023-11-29
 ---
 
 ## 概要
@@ -23,6 +23,8 @@ lastmod: 2021-10-18
 </dl>
 
 情報統計力学分野の研究を行っています．
+
+---
 
 ## コンテンツ
 
@@ -138,6 +140,8 @@ lastmod: 2021-10-18
     </dd>
 </dl>
 
+---
+
 ## 業績
 
 ### 学歴
@@ -145,7 +149,6 @@ lastmod: 2021-10-18
 - 2014年3月 愛知県立岡崎高等学校 卒業
 - 2019年3月 東京大学 教養学部 統合自然科学科 物質基礎科学専攻・数理自然科学副専攻 卒業
 - 2021年3月 東京大学 総合文化研究科 広域科学専攻 相関基礎科学系 修士課程修了
-
 
 ### 職歴
 
@@ -185,3 +188,14 @@ lastmod: 2021-10-18
 - [第二回 DSSシンポジウム（東京大学情報理工学系研究科データサイエンティスト養成講座シンポジウム）](http://symposium.dss.i.u-tokyo.ac.jp/) 「ベイズ推定とレプリカ交換法によるロバストな実験データ解析」 ポスター発表
 - [SPRING GXが提供するランチョンセミナー - 統合自然科学科 駒場サイエンス倶楽部 大学院生シリーズ](http://wings-abc.c.u-tokyo.ac.jp/%e9%a7%92%e5%a0%b4%e3%82%b5%e3%82%a4%e3%82%a8%e3%83%b3%e3%82%b9%e5%80%b6%e6%a5%bd%e9%83%a8/) 第5回 「統計力学の手法による実験データ解析のロバスト化」 口頭発表
 - [The 7th Asian Materials Data Symposium(AMDS 2023)](https://www.amds2023.com/index.php) P30 "Bayesian optimization for efficient discovery of high ionic conductivity materials" ポスター発表
+
+---
+
+## 課外活動
+
+サークル活動：
+
+- 2015年度～ [東京大学キムワイプ卓球会](https://ut.tokyo.jp.iktta.org/)
+- 2016年度～ [ノンリニア](https://n-linear.org/about_us.php)
+- 2017年度～ [東大TeX愛好会](https://ut-tex.org/)
+- 2015～2018年度 [東京大学サイエンスコミュニケーションサークルCAST](https://ut-cast.net/cast/)
