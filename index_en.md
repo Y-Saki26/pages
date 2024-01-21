@@ -167,7 +167,7 @@ I am currently conducting research in the field of information and statistical m
     <dt>Twitter <a href="https://twitter.com/UndercapeY">@UndercapeY</a></dt>
     <dd>日常的なつぶやき</dd>
     <dt><a href="https://www.linkedin.com/in/yuki-sakishita">LinkedIn</a></dt>
-    <dt>UTokyo DSS Blog 寄稿記事</a></dt>
+    <dt>UTokyo DSS Blog 寄稿記事</dt>
     <dd>DSSでの活動</dd>
     <dd>
         <details open>

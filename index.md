@@ -124,7 +124,7 @@ lastmod: 2023-11-29
     <dt>Twitter <a href="https://twitter.com/UndercapeY">@UndercapeY</a></dt>
     <dd>日常的なつぶやき</dd>
     <dt><a href="https://www.linkedin.com/in/yuki-sakishita">LinkedIn</a></dt>
-    <dt>UTokyo DSS Blog 寄稿記事</a></dt>
+    <dt>UTokyo DSS Blog 寄稿記事</dt>
     <dd>DSSでの活動</dd>
     <dd>
         <details open>
