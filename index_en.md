@@ -56,6 +56,18 @@ I am currently conducting research in the field of information and statistical m
 
 - 「グリーントランスフォーメーション(GX)を先導する高度人材育成」(SPRING GX) プロジェクト since 2021
 
+### Other Presentations
+
+- 2023-07-07: [第二回 DSSシンポジウム（東京大学情報理工学系研究科データサイエンティスト養成講座シンポジウム）](http://symposium.dss.i.u-tokyo.ac.jp/) 「ベイズ推定とレプリカ交換法によるロバストな実験データ解析」 (Poster)
+- 2023-07-12: [SPRING GXが提供するランチョンセミナー - 統合自然科学科 駒場サイエンス倶楽部 大学院生シリーズ](http://wings-abc.c.u-tokyo.ac.jp/%e9%a7%92%e5%a0%b4%e3%82%b5%e3%82%a4%e3%82%a8%e3%83%b3%e3%82%b9%e5%80%b6%e6%a5%bd%e9%83%a8/) 第5回 「統計力学の手法による実験データ解析のロバスト化」 (Oral)
+- 2023-10-25/27: [The 7th Asian Materials Data Symposium(AMDS 2023)](https://www.amds2023.com/index.php) P30 "Bayesian optimization for efficient discovery of high ionic conductivity materials" (Poster)
+- Activities during high school:
+  - Work in [the Super Science Club at Okazaki High School](https://sites.google.com/view/okazaki-h-sshc/about)
+    - 2012-03-24: [2012年度 日本物理学会 第8回Jr.セッション](https://www.gakkai-web.net/butsuri-jrsession/2012/program.html) 24pJPS-16 「自作造波機を用いた文字造波へのアプローチ～造波機本体の検証～」 (Co-author of a poster presentation)
+  - Participation in [愛知県立時習館高等学校におけるコアＳＳＨ（海外の理数教育重点校との連携）Project in 2012](https://jishukan-h.aichi-c.ed.jp/old/ja/coressh/guideline.html)
+    - 2012-12-26: [「科学三昧inあいち2012」（ＳＳＨ合同研究発表会）](https://okazaki-h.aichi-c.ed.jp/ssh/h24/h24_coressh_zanmai.html) (Poster)
+    - 2013-03-08: Study trip to England and Participation in [Science Conference 2013](https://intranet.stpaulsschool.org.uk/science/for-students/old-trips-and-events/science-conference-2013) "Approach to generate wave with the shape of a letter by using homebrew wave generator" (Poster)
+
 ## My Contents
 
 
