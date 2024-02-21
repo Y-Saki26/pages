@@ -1,7 +1,9 @@
 ---
 layout: post
-title: Test Post
-description: test post
+title: Test
+description: Markdownの挙動の実験
+date: 2022-10-10
+lastmod: 2022-10-18
 ---
 
 ## Section1
