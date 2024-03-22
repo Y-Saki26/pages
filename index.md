@@ -23,7 +23,7 @@ lastmod: 2024-03-22
     <dd> ※ g.ecc.u-tokyo.ac.jp のアドレスは2024年9月まで転送設定されています </dd>
 </dl>
 
-マテリアルズ・インフォマティクスに興味があります．
+統計学，統計力学，計算機科学，マテリアルズ・インフォマティクスに興味があります．
 
 ---
 
@@ -148,11 +148,11 @@ lastmod: 2024-03-22
 ### 学歴
 
 - 2014-03: 愛知県立岡崎高等学校 卒業
-- 2019-03: 東京大学 教養学部 統合自然科学科 物質基礎科学専攻・数理自然科学副専攻
+- 2019-03: 東京大学 教養学部 統合自然科学科 物質基礎科学専攻・数理自然科学副専攻  
   卒業：学士（教養）
-- 2021-03: 東京大学 総合文化研究科 広域科学専攻 相関基礎科学系
+- 2021-03: 東京大学 総合文化研究科 広域科学専攻 相関基礎科学系  
   修士課程修了：修士（学術）
-- 2024-03: 東京大学 総合文化研究科 広域科学専攻 相関基礎科学系
+- 2024-03: 東京大学 総合文化研究科 広域科学専攻 相関基礎科学系  
   博士課程修了：博士（学術）
 
 ### 職歴
@@ -169,22 +169,19 @@ lastmod: 2024-03-22
 
 - 2016-08: 準中型自動車免許（5t・AT限定）
 - 2022-03: 東京大学大学院情報工学系研究科領域知識創生研究プログラム「データサイエンス基礎課程」修了
-- 2022-03: 東京大学大学院情報工学系研究科領域知識創生研究プログラム「データサイエンス応用課程」修了  
-- 2024-03: 東京大学大学院情報工学系研究科領域知識創生研究プログラム「データサイエンス実践課程」修了
+- 2022-03: 東京大学大学院情報工学系研究科領域知識創生研究プログラム「データサイエンス応用課程」修了
+- 2024-03: 東京大学大学院情報工学系研究科領域知識創生研究プログラム「データサイエンス実践課程」修了  
   ※参考：[東京大学データサイエンスティスト養成講座 - 概要と修了証](https://dss.i.u-tokyo.ac.jp/about)
 
-- ~~アルゴリズム実技検定 中級~~（2022/6/6 で失効）
+- ~~アルゴリズム実技検定 中級~~（2022-06-06 で失効）
 - AtCoder Algorithm Rating最高値 1402（3級）  
   ※参考：[AtCoder（競技プログラミング）の色・ランクと実力評価、問題例](https://chokudai.hatenablog.com/entry/2019/02/11/155904) （AtCoder株式会社社長による解説）
 
 ### 獲得資金
 
-- 「グリーントランスフォーメーション(GX)を先導する高度人材育成」(SPRING GX) プロジェクト 2021年度～2023年度
+- 2021-10/2024-03:「グリーントランスフォーメーション(GX)を先導する高度人材育成」(SPRING GX) プロジェクト
 
 ### 出版論文
-
-<details>
-<summary>論文一覧</summary>
 
 - N. Shikama, **Y. Sakishita**, F. Nabeshima, Y. Katayama, K. Ueno, and A. Maeda, “Enhancement of superconducting transition temperature in electrochemically etched FeSe/LaAlO3 films”, *Appl. Phys. Express*, **13**, 083006, (2020).
 - N. Shikama, **Y. Sakishita**, F. Nabeshima, and A. Maeda, “Chemical pressure effect of the electron-doped FeSe films with an electric double-layer-transistor structure”, *J. Phys. Conf. Ser.*, **1590**, 012012, (2020).
@@ -196,11 +193,9 @@ lastmod: 2024-03-22
 - H. Kurokawa, S. Nakamura, J. Zhao, N. Shikama, **Y. Sakishita**, Y. Sun, F. Nabeshima, Y. Imai, H. Kitano, and A. Maeda, “Relationships between Superconductivity and Nematicity in FeSe1−xTex (x=0－0.5) Films Studied by Complex Conductivity Measurements”, *Phys. Rev. **B***, **104**, 014505 (2021).
 - N. Shikama, **Y. Sakishita**, F. Nabeshima, and A. Maeda, “Positive and negative chemical pressure effects investigated in electron-doped FeSe films with an electric-double-layer structure”, *Phys. Rev. **B***, **104**, 094512 (2021).
 
-</details>
-
 ### 学会発表
 
-- 2020-03: **崎下雄稀**, 紺野友彦, 黒川穂高, 鍋島冬樹, 小川亮, 寳迫巌, 前田京剛，[「超伝導転移温度の予測における機械学習手法の比較」18pPSA-24](https://w4.gakkai-web.net/jps_search/2020sp/data/html/program06.html#j18pPSA:~:text=%E8%B6%85%E4%BC%9D%E5%B0%8E%E8%BB%A2%E7%A7%BB%E6%B8%A9%E5%BA%A6%E3%81%AE%E4%BA%88%E6%B8%AC%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E6%89%8B%E6%B3%95%E3%81%AE%E6%AF%94%E8%BC%83) 日本物理学会 第75回年次大会（2020年）（ポスター ※ 新型コロナウイルス感染症への対策のため講演概要原稿の掲示のみ）
+- 2020-03: **崎下雄稀**，紺野友彦，黒川穂高，鍋島冬樹，小川亮，寳迫巌，前田京剛，[「超伝導転移温度の予測における機械学習手法の比較」18pPSA-24](https://w4.gakkai-web.net/jps_search/2020sp/data/html/program06.html#j18pPSA:~:text=%E8%B6%85%E4%BC%9D%E5%B0%8E%E8%BB%A2%E7%A7%BB%E6%B8%A9%E5%BA%A6%E3%81%AE%E4%BA%88%E6%B8%AC%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E6%89%8B%E6%B3%95%E3%81%AE%E6%AF%94%E8%BC%83) 日本物理学会 第75回年次大会（2020年）（ポスター ※ 新型コロナウイルス感染症への対策のため講演概要原稿の掲示のみ）
 - 2021-09: **崎下雄稀**，鍋島冬樹，前田京剛，福島孝治，[「マルコフ連鎖モンテカルロ法を用いた薄膜X線ラウエ振動のベイズ推定による解析」22aL4-6](https://w4.gakkai-web.net/jps_search/2021au/data/html/program11.html#:~:text=%E3%83%9E%E3%83%AB%E3%82%B3%E3%83%95%E9%80%A3%E9%8E%96%E3%83%A2%E3%83%B3%E3%83%86%E3%82%AB%E3%83%AB%E3%83%AD%E6%B3%95%E3%82%92%E7%94%A8%E3%81%84%E3%81%9F%E8%96%84%E8%86%9CX%E7%B7%9A%E3%83%A9%E3%82%A6%E3%82%A8%E6%8C%AF%E5%8B%95%E3%81%AE%E3%83%99%E3%82%A4%E3%82%BA%E6%8E%A8%E5%AE%9A%E3%81%AB%E3%82%88%E3%82%8B%E8%A7%A3%E6%9E%90) 日本物理学会 2021年秋季大会（口頭発表）
 - 2022-03: **崎下雄稀**，鍋島冬樹，前田京剛，福島孝治，[「薄膜X線ラウエ振動の膜厚混合分布モデルによるベイズ推定」15pB14-11](https://onsite.gakkai-web.net/jps/jps_search/2022sp/data2/html/program11.html#:~:text=%E8%96%84%E8%86%9CX%E7%B7%9A%E3%83%A9%E3%82%A6%E3%82%A8%E6%8C%AF%E5%8B%95%E3%81%AE%E8%86%9C%E5%8E%9A%E6%B7%B7%E5%90%88%E5%88%86%E5%B8%83%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AB%E3%82%88%E3%82%8B%E3%83%99%E3%82%A4%E3%82%BA%E6%8E%A8%E5%AE%9A) 日本物理学会 第77回年次大会（2022年）（口頭発表）
 - 2022-09: **崎下雄稀**，鍋島冬樹，前田京剛，福島孝治，[「薄膜X線回折とX線反射率を組み合わせた膜厚のベイズ推定」12pH112-5](https://onsite.gakkai-web.net/jps/jps_search/2022au/data2/html/program11.html#j12pH112:~:text=%E8%96%84%E8%86%9CX%E7%B7%9A%E5%9B%9E%E6%8A%98%E3%81%A8X%E7%B7%9A%E5%8F%8D%E5%B0%84%E7%8E%87%E3%82%92%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B%E3%81%9F%E8%86%9C%E5%8E%9A%E3%81%AE%E3%83%99%E3%82%A4%E3%82%BA%E6%8E%A8%E5%AE%9A) 日本物理学会 2022年秋季大会（口頭発表）
