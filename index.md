@@ -19,8 +19,8 @@ lastmod: 2024-03-22
     <dt>研究分野</dt>
     <dd>物性物理学，情報統計力学</dd>
     <dt>メールアドレス</dt>
-    <dd> ($\lambda A.$ y.sakishita.51 $A$ gmail.com) $@$ </dd>
-    <dd> ※ g.ecc.u-tokyo.ac.jp のアドレスは2024年9月まで転送設定されています </dd>
+    <dd> ($\lambda A.$ y-sakishita $A$ alumni.u-tokyo.ac.jp) $@$ </dd>
+    <dd> ※ 転送専用アドレスのためgmailからご返信します </dd>
 </dl>
 
 統計学，統計力学，計算機科学，マテリアルズ・インフォマティクスに興味があります．
