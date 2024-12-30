@@ -26,9 +26,20 @@ I am currently conducting research in the field of information and statistical m
 
 ## Achievement
 
+→ [reserchmap](https://researchmap.jp/yuki_sakishita)
+
 ### Publications
 
-→ <a href="https://researchmap.jp/yuki_sakishita">reserchmap</a>
+- N. Shikama, **Y. Sakishita**, F. Nabeshima, Y. Katayama, K. Ueno, and A. Maeda, “Enhancement of superconducting transition temperature in electrochemically etched FeSe/LaAlO3 films”, *Appl. Phys. Express*, **13**, 083006, (2020) [10.35848/1882-0786/aba649](https://iopscience.iop.org/article/10.35848/1882-0786/aba649).
+- N. Shikama, **Y. Sakishita**, F. Nabeshima, and A. Maeda, “Chemical pressure effect of the electron-doped FeSe films with an electric double-layer-transistor structure”, *J. Phys. Conf. Ser.*, **1590**, 012012, (2020) [10.1088/1742-6596/1590/1/012012](https://iopscience.iop.org/article/10.1088/1742-6596/1590/1/012012).
+- T. Konno, H. Kurokawa, F. Nabeshima, Y. Sakishita, R. Ogawa, I. Hosako, and A. Maeda, “Deep learning model for finding new superconductors”, *Phys. Rev. **B***, **103**, 014509, (2021) [10.1103/physrevb.103.014509](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.103.014509).
+- K. Nakayama, R. Tsubono, G. N. Phan, F. Nabeshima, N. Shikama, T. Ishikawa, **Y. Sakishita**, S. Ideta, K. Tanaka, A. Maeda, T. Takahashi, and T. Sato, “Orbital mixing at the onset of high-temperature superconductivity in FeSe1−xTex /CaF2”, *Phys. Rev. Research*, **3**, L012007, (2021) [10.1103/physrevresearch.3.l012007](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.L012007).
+- F. Nabeshima, Y. Kawai, N. Shikama, **Y. Sakishita**, A. Suter, T. Prokscha, S. E. Park, S. Komiya, A. Ichinose, T. Adachi, and A. Maeda, “Sulfur-induced magnetism in FeSe1−xSx thin films on LaAlO3 revealed by muon spin rotation/relaxation”, *Phys. Rev. **B***, **103**, 184504 (2021) [10.1103/physrevb.103.184504](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.103.184504).
+- K. Isoyama, N. Yoshikawa, K. Katsumi, J. Wong, N. Shikama, **Y. Sakishita**, F. Nabeshima, A. Maeda, and R. Shimano, “Light-induced enhancement of superconductivity in iron-based superconductor FeSe0.5Te0.5”, *Commum. Phys.*, **4**, 160 (2021) [10.1038/s42005-021-00663-8](https://www.nature.com/articles/s42005-021-00663-8).
+- H. Kurokawa, S. Nakamura, J. Zhao, N. Shikama, **Y. Sakishita**, Y. Sun, F. Nabeshima, Y. Imai, H. Kitano, A. Maeda, “Complex conductivity of FeSe1–xTex (x=0－0.5) films”, *J. Phys.–Conf. Ser.*, **1975**, 012009-012009 (2021) [10.1088/1742-6596/1975/1/012009](https://iopscience.iop.org/article/10.1088/1742-6596/1975/1/012009).
+- H. Kurokawa, S. Nakamura, J. Zhao, N. Shikama, **Y. Sakishita**, Y. Sun, F. Nabeshima, Y. Imai, H. Kitano, and A. Maeda, “Relationships between Superconductivity and Nematicity in FeSe1−xTex (x=0－0.5) Films Studied by Complex Conductivity Measurements”, *Phys. Rev. **B***, **104**, 014505 (2021) [10.1103/physrevb.104.014505](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.014505).
+- N. Shikama, **Y. Sakishita**, F. Nabeshima, and A. Maeda, “Positive and negative chemical pressure effects investigated in electron-doped FeSe films with an electric-double-layer structure”, *Phys. Rev. **B***, **104**, 094512 (2021) [10.1103/physrevb.104.094512](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.094512).
+- **[New]** **Y. Sakishita**, F. Nabeshima, A. Maeda, and K. Hukushima, “Bayesian Estimation of Thin-film X-ray Laue Oscillation Using Markov Chain Monte Carlo Method”, *J. Phys. Soc. Jpn*, **94**, 014001 (2025) [10.7566/JPSJ.94.014001](https://journals.jps.jp/doi/10.7566/JPSJ.94.014001).
 
 ### Conference presentation (domestic)
 
