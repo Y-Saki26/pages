@@ -3,7 +3,7 @@ layout: default
 title: 崎下雄稀 - 自己紹介
 description: Introduction of Y. Sakishita
 date: 2021-10-10
-lastmod: 2024-03-22
+lastmod: 2025-01-14
 ---
 
 ## 概要
@@ -14,8 +14,8 @@ lastmod: 2024-03-22
     <dt>氏名</dt>
     <dd>崎下雄稀（Sakishita Yuki）</dd>
     <dt>所属</dt>
-    <dd>東京大学大学院 総合文化研究科 広域科学専攻 相関基礎科学系<br>
-        博士（学術）</dd>
+    <dd>株式会社マイクロアド 機械学習エンジニア<br>
+        ・国立研究開発法人物質・材料研究機構（NIMS） エンジニア職</dd>
     <dt>研究分野</dt>
     <dd>物性物理学，情報統計力学</dd>
     <dt>メールアドレス</dt>
@@ -125,10 +125,11 @@ lastmod: 2024-03-22
     <dt>Twitter <a href="https://twitter.com/UndercapeY">@UndercapeY</a></dt>
     <dd>日常的なつぶやき</dd>
     <dt><a href="https://www.linkedin.com/in/yuki-sakishita">LinkedIn</a></dt>
-    <dt>UTokyo DSS Blog 寄稿記事</dt>
-    <dd>DSSでの活動</dd>
+    <dd>つながり用にアカウントだけ作ってある</dd>
+    <dt>UTokyo DSS Blog</dt>
+    <dd>DSSでの活動について記事寄稿</dd>
     <dd>
-        <details open>
+        <details>
             <summary>記事一覧</summary>
             <div>
                 <ul>
@@ -169,8 +170,8 @@ lastmod: 2024-03-22
 - 2022-10/2024-03: 卓越リサーチ・アシスタント（東京大学 工学系研究科）
 - 2022-12/2023-03: 卓越リサーチ・アシスタント（東京大学 総合文化研究科）
 - 他アルバイト
-- 2024-04～: 株式会社マイクロアド 機械学習エンジニア
-- 2024-06～: [国立研究開発法人物質・材料研究機構（NIMS） エンジニア職](https://samurai.nims.go.jp/profiles/sakishita_yuki)
+- 2024-04/現在: 株式会社マイクロアド 機械学習エンジニア
+- 2024-06/現在: [国立研究開発法人物質・材料研究機構（NIMS） エンジニア職](https://samurai.nims.go.jp/profiles/sakishita_yuki)
 
 ### 資格
 
